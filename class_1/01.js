@@ -1,0 +1,1 @@
+console.log("Hello javascript!!. Time to master the frontend.")
