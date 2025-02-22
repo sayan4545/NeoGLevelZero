@@ -15,3 +15,4 @@ let firstPart = 'pqr'
 let secondPart = 'stu'
 let combined = firstPart+secondPart
 console.log(combined)
+
